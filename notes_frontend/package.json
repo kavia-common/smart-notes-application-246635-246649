@@ -11,7 +11,9 @@
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.2.3"
+    "next": "15.2.3",
+    "isomorphic-dompurify": "^2.29.0",
+    "marked": "^15.0.7"
   },
   "devDependencies": {
     "typescript": "^5",
